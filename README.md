@@ -8,4 +8,4 @@ This is a mini project which aims to classify face mask using CNN. It is and end
 Due to covid-19 by far wearing a face mask is the only proven solution for not getting infected by it unless and until a proper vaccine has been introduced. This mini project helps to classify if face mask is present or not in order to prevent the spread of the infection.
 
 ## Screen Shots
-![](ss1.png)
+![](ss2.png)
